@@ -1,0 +1,4 @@
+br\ufpr\adapter\AdapterTomada.class
+br\ufpr\adapter\Adapter.class
+br\ufpr\adapter\TomadaDeTresPinos.class
+br\ufpr\adapter\TomadaDeDoisPinos.class
